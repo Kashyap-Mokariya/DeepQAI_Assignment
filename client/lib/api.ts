@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8000";
+const API_URL = "https://deepqai-assignment.onrender.com";
 
 export async function loginUser(username: string, password: string) {
 	const response = await fetch(`${API_URL}/login/`, {
