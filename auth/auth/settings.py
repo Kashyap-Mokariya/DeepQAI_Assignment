@@ -79,7 +79,7 @@ CORS_ALLOW_CREDENTIALS = True
 # Alternatively, specify allowed origins
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',  # React's default port
-    'https://deep-qai-assignment.vercel.app/',
+    'https://deep-qai-assignment.vercel.app',
     # 'http://your-react-app-domain.com',
 ]
 
